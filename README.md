@@ -1,3 +1,3 @@
-# Getting started with Rinobot
+# Rinobot
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+This gitbook outlines what you can do with Rinobot.
