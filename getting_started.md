@@ -1,3 +1,0 @@
-# Getting started
-
-This is how you get started, I will embed a lot of images soon...
