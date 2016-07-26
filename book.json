@@ -1,7 +1,7 @@
 {
   "plugins": ["-sharing"],
   "links": {
-    "home": null,
+    "home": false,
     "about": false,
     "issues": false,
     "contribute": false,
