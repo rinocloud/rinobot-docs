@@ -1,7 +1,7 @@
 {
   "plugins": ["-sharing", "toggle-chapters"],
   "links": {
-    "home": null,
+    "home": false,
     "about": false,
     "issues": false,
     "contribute": false,
@@ -15,10 +15,6 @@
       "weibo": false,
       "instapaper": false,
       "vk": false,
-      "all": [
-        "facebook", "google", "twitter",
-        "weibo", "instapaper"
-      ]
     }
   }
 }
