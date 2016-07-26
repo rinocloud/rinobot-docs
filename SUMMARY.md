@@ -8,4 +8,5 @@
        * Running matlab
        * Running R
        * Other common tasks
+       * Adding metadata
 
