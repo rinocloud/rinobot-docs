@@ -6,4 +6,5 @@
        * Filename Patterns
        * Running python
        * Running matlab
+       * Running R
 
