@@ -1,5 +1,5 @@
 {
-  "plugins": ["-sharing", "toggle-chapters"],
+  "plugins": ["-sharing"],
   "links": {
     "home": null,
     "about": false,
