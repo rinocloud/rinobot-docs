@@ -2,6 +2,9 @@
   "plugins": ["-sharing", "toggle-chapters"],
   "links": {
     "home": null,
+    "about": false,
+    "issues": false,
+    "contribute": false,
     "sidebar": {}
   },
   "pluginsConfig": {
