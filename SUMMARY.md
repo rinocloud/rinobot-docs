@@ -7,6 +7,6 @@
        * Running python
        * Running matlab
        * Running R
-       * Other common tasks
        * Adding metadata
+       * Other common tasks
 
