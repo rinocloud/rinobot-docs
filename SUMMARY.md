@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [Readme](README.md)
    * Installation
    * Defining Tasks
        * Filename Patterns
