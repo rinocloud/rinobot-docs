@@ -1,6 +1,6 @@
 
 <h1>
-  <img src="https://raw.githubusercontent.com/rinocloud/logos/master/png/square-reversed.png" width="20"/> 
+  <img src="https://raw.githubusercontent.com/rinocloud/logos/master/png/square-reversed.png" width="40"/> 
   Rinobot
 </h1>
 
