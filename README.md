@@ -1,7 +1,7 @@
 
 <h1>
-<img src="https://raw.githubusercontent.com/rinocloud/logos/master/png/square-reversed.png" width="100"/> 
-Rinobot
+  <img src="https://raw.githubusercontent.com/rinocloud/logos/master/png/square-reversed.png" width="20"/> 
+  Rinobot
 </h1>
 
 Rinobot monitors a folder on your PC, and syncs everything in that folder with [rinocloud](http://rinocloud.com).
