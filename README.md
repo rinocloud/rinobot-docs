@@ -12,14 +12,10 @@ It syncs everything in your folders with [rinocloud](http://rinocloud.com). It a
 ## Installation
 
 #### Windows
-
-Download the installer from (not yet live):
  
 > [rinobot-win-0.0.2.msi]()
 
 #### Mac
-
-Download the application from (not yet live):
  
 > [rinobot-mac-0.0.2.zip]()
 
@@ -32,6 +28,4 @@ to install the Anaconda python distribution:
 
 ## Getting started
 
-Head over to the
-
-> [Getting started guide]()
+Head over to the [Getting started guide](/introduction/getting_started.md)
