@@ -1,6 +1,11 @@
 
+<div>
+  <img style="vertical-align:middle" src="https://placehold.it/60x60">
+  <span style="">Works.</span>
+</div>
+
 <h1>
-  <img src="https://raw.githubusercontent.com/rinocloud/logos/master/png/square-reversed.png" width="40"/> 
+  <img src="https://raw.githubusercontent.com/rinocloud/logos/master/png/square-reversed.png" width="100"/> 
   Rinobot
 </h1>
 
