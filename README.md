@@ -1,7 +1,7 @@
 
 <div>
   <img class="logo-div" src="https://placehold.it/60x60">
-  <span class="logo-">Works.</span>
+  <span class="logo-text-span">Works.</span>
 </div>
 
 <h1>
