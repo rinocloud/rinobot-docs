@@ -1,7 +1,7 @@
 
 <div>
-  <img style="vertical-align:middle" src="https://placehold.it/60x60">
-  <span style="">Works.</span>
+  <img class="logo-div" src="https://placehold.it/60x60">
+  <span class="logo-">Works.</span>
 </div>
 
 <h1>
