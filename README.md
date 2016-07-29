@@ -1,4 +1,4 @@
-# ![][logo] Rinobot
+# ![][logo]  Rinobot
 
 
 Rinobot monitors a folder on your PC, and syncs everything in that folder with [rinocloud](http://rinocloud.com).
