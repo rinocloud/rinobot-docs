@@ -21,8 +21,7 @@ It syncs everything in your folders with [rinocloud](http://rinocloud.com). It a
 
 #### Packages (recommended)
 
-If you want to use the automatic data processing packages you will need 
-to install the Anaconda python distribution:
+If you want to use the automatic data processing packages you will need to install the Anaconda python distribution. Install the distribution for python3.5.
 
 > [Anaconda python downloads](https://www.continuum.io/downloads)
 
