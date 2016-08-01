@@ -14,5 +14,5 @@ engine: python
 
 ## Fields
 
-- `main`: the name of the initial entry point to the package, so that rinobot knows which file to run.
-- `engine`: whether to run the package using python, matlab, or Rscript. Currently only python is supported. 
+- `main`: The name of the initial entry point to the package, so that rinobot knows which file to run.
+- `engine`: Wether to run the package using python, matlab, or Rscript. Currently only python is supported. 
