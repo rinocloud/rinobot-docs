@@ -1,0 +1,10 @@
+/* CSS for website */
+
+.logo-div {
+    display:table;
+}
+
+.logo-text-span {
+    vertical-align: middle;
+    display: table-cell;
+}
