@@ -9,4 +9,4 @@
 * [Running MATLAB scripts on files automatically](running_matlab.md)
 * [Running R scripts on files automatically](running_r.md)
 * [Running custom commands](running_custom.md)
-* [Running your own programs](running_your_own_programs.d)
+* [Running your own programs](running_your_own_programs.md)
